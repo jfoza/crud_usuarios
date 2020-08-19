@@ -1,7 +1,7 @@
 {
-  "name": "crud_usuarios",
+  "name": "crud-users",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "src/index.js",
   "repository": "https://github.com/jfoza/crud_usuarios.git",
   "author": "gfoza <gfozza@hotmail.com>",
   "license": "MIT",
